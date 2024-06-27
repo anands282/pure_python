@@ -1,0 +1,1 @@
+print("Hi This repo will contain code snipptes for python practice")
